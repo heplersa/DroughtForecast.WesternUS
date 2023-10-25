@@ -1,0 +1,4 @@
+The data to accompany the paper "Spatio-temporal Forecasting for the US Drought Monitor" can be found at the following link:
+https://figshare.com/articles/dataset/completedata_csv/24434944
+
+This data is needed to run the code in FitModelNIMBLE.R
